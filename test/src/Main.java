@@ -4,5 +4,6 @@ public class Main {
         Atest.greet("Tamás");
         CTest.cheer("Java");
         Btest.count(10);
+        
     }
 }
