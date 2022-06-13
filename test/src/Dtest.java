@@ -1,13 +1,13 @@
 
 public class Dtest {
     public static void main(String[] args) {
-        future();
+        future("Cancer");
         Atest.greet();
         Btest.count(28);
         CTest.cheer();
     }
 
-    private static void future() {
-        System.out.println("Cancer");
+    private static void future(String horoscopeSign) {
+        System.out.println(horoscopeSign);
     }
 }
