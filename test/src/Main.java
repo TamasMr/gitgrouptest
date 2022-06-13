@@ -3,7 +3,7 @@ public class Main {
         Dtest.future("Water Rooster");
         Atest.greet("Tamás");
         CTest.cheer("Java");
-        Btest.count(10);
+        Btest.count("Balazs",10);
         
     }
 }
