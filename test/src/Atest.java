@@ -1,5 +1,5 @@
 public class Atest {
-    public void greet(){
+    public static void greet(){
         System.out.println("Tamás");
     }
 }
