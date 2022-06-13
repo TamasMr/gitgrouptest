@@ -2,7 +2,7 @@
 public class Dtest {
     public static void main(String[] args) {
         future("Cancer");
-        Atest.greet();
+        Atest.greet("Tamás");
         Btest.count(28);
         CTest.cheer();
     }
