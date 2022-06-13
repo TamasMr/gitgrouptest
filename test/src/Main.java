@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         Dtest.future("Water Rooster");
-        Atest.greet("Tamás");
         CTest.cheer("Java" , " Meg hatravan");
-        Btest.count(10);
-        
+        Atest.greet("Tamás",41);
+        Btest.count("Balazs",10);
     }
 }
